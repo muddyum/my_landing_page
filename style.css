@@ -1,0 +1,78 @@
+h1 {
+	color: white;
+}
+
+body {
+	
+	text-align: center;
+	background: url("http://wallpaperhdwide.com/wp-content/gallery/brooklyn-bridge-wallpaper-black-and-white/Brooklyn-bridge-black-and-white-70cm-x-160cm.jpg");
+	background-size: cover;
+	color: white;
+	font-family: arial;
+}
+img {
+    border-radius: 124px;
+    border: 5px solid purple;
+    margin: 30px auto;
+}
+
+ul {
+	list-style-position: inside;
+    border: 5px solid black;
+}
+
+input[type="submit"] {
+	background: red;
+	color: white;
+	border: 0px;
+	border-radius: 5px;
+}
+
+#excited {
+	font-weight: bold;
+	color: red;
+	text-decoration: underline;
+}
+
+.demo {
+	text-decoration: underline;
+}
+
+header{
+
+	text-align: center;
+}
+
+.nav-items {
+
+	display: inline;
+	padding: 20px;
+}
+
+#navigation {
+	border: none;
+	padding-top: 20px;
+}
+
+#left-div {
+
+	height: 100px;
+	width: 49%;
+	display: inline-block;
+	float: left;
+	background-color: blue;
+}
+
+#right-div {
+
+	height: 100px;
+	width: 49%;
+	float: right;
+	display: inline-block;
+	background-color: red;
+}
+
+#clear-example {
+
+	clear: both;
+}
